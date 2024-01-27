@@ -1,3 +1,3 @@
 # ignore ALL .log files
 *.sqlite3
-*.txt
+*PROJECT INFO.txt
