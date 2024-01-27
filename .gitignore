@@ -1,0 +1,3 @@
+# ignore ALL .log files
+*.sqlite3
+*.txt
